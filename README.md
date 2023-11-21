@@ -12,9 +12,13 @@ All the data and python notebook used to create de Recomendation Engine is this 
 ## Used folders and files:
 
 • user-item-interactions: CSV file of the interactions of users with articles.
+
 • articles_community: CSV file of all the articles.
+
 • Recommendations_with_IBM.ipynb: Notebook with all the code to load, clean and create recomendation engine.
+
 • Recommendations_with_IBM: HTML version with all the code to load, clean and create recomendation engine.
+
 • project_tests: All the test passed and applied to the code.
 
 All these files are in my Github repository: https://github.com/GuilleC1987/Porject3/tree/main
